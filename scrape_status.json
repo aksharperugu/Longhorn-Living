@@ -1,0 +1,282 @@
+{
+  "run_at": "2026-09-07T10:57:44.360970",
+  "total_properties": 48,
+  "ok": 45,
+  "warnings": 3,
+  "properties": [
+    {
+      "property": "2400 Nueces Apartments",
+      "status": "ok",
+      "count": 6,
+      "note": "Official UT Housing 2026-27 Rates"
+    },
+    {
+      "property": "Brackenridge Apartments (Lake Austin Blvd)",
+      "status": "ok",
+      "count": 3,
+      "note": "Official UT Housing 2026-27 Rates"
+    },
+    {
+      "property": "Colorado Apartments (Lake Austin Blvd)",
+      "status": "ok",
+      "count": 4,
+      "note": "Official UT Housing 2026-27 Rates"
+    },
+    {
+      "property": "East Campus Graduate Apartments",
+      "status": "ok",
+      "count": 3,
+      "note": "Official UT Housing 2026-27 Rates"
+    },
+    {
+      "property": "Gateway Apartments (West 6th St)",
+      "status": "ok",
+      "count": 4,
+      "note": "Official UT Housing 2026-27 Rates"
+    },
+    {
+      "property": "The Block (on 23rd, 25th, etc.)",
+      "status": "ok",
+      "count": 174
+    },
+    {
+      "property": "The Castilian",
+      "status": "ok",
+      "count": 3
+    },
+    {
+      "property": "Crest at Pearl",
+      "status": "ok",
+      "count": 25
+    },
+    {
+      "property": "Texan & 21st Apartments",
+      "status": "ok",
+      "count": 21
+    },
+    {
+      "property": "GrandMarc Austin",
+      "status": "ok",
+      "count": 17
+    },
+    {
+      "property": "The Standard at Austin",
+      "status": "ok",
+      "count": 27
+    },
+    {
+      "property": "Legacy on Rio",
+      "status": "ok",
+      "count": 33
+    },
+    {
+      "property": "Mark Uptown",
+      "status": "ok",
+      "count": 36
+    },
+    {
+      "property": "Moontower Just off Campus",
+      "status": "ok",
+      "count": 17
+    },
+    {
+      "property": "Nine Just off Campus",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "property": "Waterloo Austin",
+      "status": "ok",
+      "count": 11
+    },
+    {
+      "property": "Yugo Austin Corner",
+      "status": "ok",
+      "count": 14
+    },
+    {
+      "property": "Yugo Austin Space",
+      "status": "ok",
+      "count": 15
+    },
+    {
+      "property": "Villas on Rio",
+      "status": "ok",
+      "count": 11
+    },
+    {
+      "property": "Inspire on 22nd",
+      "status": "cached",
+      "count": 22,
+      "note": "live scrape returned 0 results"
+    },
+    {
+      "property": "Evo Austin (formerly Ion Austin)",
+      "status": "cached",
+      "count": 8,
+      "note": "live scrape returned 0 results"
+    },
+    {
+      "property": "Skyloft Austin",
+      "status": "cached",
+      "count": 36,
+      "note": "live scrape returned 0 results"
+    },
+    {
+      "property": "21 Rio Apartments",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "Axis West Campus",
+      "status": "ok",
+      "count": 4,
+      "note": "verified specs"
+    },
+    {
+      "property": "Envoy Austin",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Quarters on Campus (The Quarters)",
+      "status": "ok",
+      "count": 4,
+      "note": "verified specs"
+    },
+    {
+      "property": "Rise on 23rd",
+      "status": "ok",
+      "count": 5,
+      "note": "verified specs"
+    },
+    {
+      "property": "The G on West Campus",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "The Harrison",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "The Hub Austin West Campus",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "The Ruckus",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "Unleashed West Campus",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "West Campus Flats",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "44th Street Apartments",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "45th Street Apartments",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Hyde Park Court",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Hyde Park Square",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Lofts at the Triangle",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Melroy Apartments",
+      "status": "ok",
+      "count": 1,
+      "note": "verified specs"
+    },
+    {
+      "property": "River Oaks Apartments",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "Red River Apartments",
+      "status": "ok",
+      "count": 2,
+      "note": "verified specs"
+    },
+    {
+      "property": "The Triangle Apartments",
+      "status": "ok",
+      "count": 4,
+      "note": "verified specs"
+    },
+    {
+      "property": "Ballpark North",
+      "status": "ok",
+      "count": 4,
+      "note": "verified specs"
+    },
+    {
+      "property": "Estate on Campus (Riverside)",
+      "status": "ok",
+      "count": 4,
+      "note": "verified specs"
+    },
+    {
+      "property": "Mesh Apartments",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "Town Lake Student Apartments",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "University Estates at Austin",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    },
+    {
+      "property": "University Village Austin",
+      "status": "ok",
+      "count": 3,
+      "note": "verified specs"
+    }
+  ]
+}
