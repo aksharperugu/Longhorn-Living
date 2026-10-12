@@ -1,8 +1,8 @@
 {
-  "run_at": "2026-10-05T12:54:58.702474",
+  "run_at": "2026-10-12T13:47:08.710836",
   "total_properties": 48,
-  "ok": 46,
-  "warnings": 2,
+  "ok": 45,
+  "warnings": 3,
   "properties": [
     {
       "property": "2400 Nueces Apartments",
@@ -102,12 +102,13 @@
     {
       "property": "Villas on Rio",
       "status": "ok",
-      "count": 39
+      "count": 38
     },
     {
       "property": "Inspire on 22nd",
-      "status": "ok",
-      "count": 22
+      "status": "cached",
+      "count": 22,
+      "note": "live scrape returned 0 results"
     },
     {
       "property": "Evo Austin (formerly Ion Austin)",
